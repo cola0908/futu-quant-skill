@@ -1,0 +1,6 @@
+interface:
+  display_name: "Futu Quant Skill"
+  short_description: "查询富途量化 API 并直接返回完整 Python 策略脚本"
+  icon_small: "./assets/logo-small-v3.png"
+  icon_large: "./assets/logo-v3.png"
+  default_prompt: "Use $futu-quant-skill to turn my trading rules into a complete Futu Quant Python script."

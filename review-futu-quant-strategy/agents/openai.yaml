@@ -1,0 +1,4 @@
+interface:
+  display_name: "富途量化代码审查器"
+  short_description: "根据富途 API 指南检查 Python 策略函数和参数"
+  default_prompt: "Use $review-futu-quant-strategy to review this Futu Quant Python script against the API guide."
