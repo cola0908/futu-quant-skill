@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Futu Quant Skill</h1>
   <img src="assets/logo-v3.png" alt="Futu Quant Skill logo" width="320">
-  <p><a href="README.md">简体中文</a> · <a href="README_EN.md">English</a> · <a href="README_ZH-TW.md">繁體中文</a></p>
+  <p><a href="README.md">简体中文</a> · <a href="README_EN.md">English</a> · <a href="README_ZH-Hant.md">繁體中文</a></p>
 </div>
 
 > A Skill that enables AI to generate quantitative trading code for the Futu or Moomoo platforms, including code review capabilities.
