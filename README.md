@@ -4,6 +4,8 @@
   <p><a href="README.md">简体中文</a> · <a href="README_EN.md">English</a> · <a href="README_ZH-TW.md">繁體中文</a></p>
 </div>
 
+> 让 AI 生成富途或 Moomoo 平台的量化代码的 Skill，包括审查功能。
+
 ### 简介
 
 `futu-quant-skill` 是一个面向 OpenClaw 类 AI Agent 的富途量化代码生成 Skill，可用于支持文件型 Skills 的各类 Agent。用户只需描述交易逻辑，AI 就会查询项目内的富途量化指南，核对函数名、参数、枚举和平台限制，然后直接返回完整的 Python 策略脚本。
