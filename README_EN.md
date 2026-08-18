@@ -4,6 +4,8 @@
   <p><a href="README.md">简体中文</a> · <a href="README_EN.md">English</a> · <a href="README_ZH-TW.md">繁體中文</a></p>
 </div>
 
+> A Skill that enables AI to generate quantitative trading code for the Futu or Moomoo platforms, including code review capabilities.
+
 ### Overview
 
 `futu-quant-skill` is a Futu Quant code-generation skill for OpenClaw-style AI agents and other agents that support file-based skills. Describe the trading rules in natural language, and the skill searches the bundled Futu Quant guide, verifies function names, parameters, enums, and platform restrictions, then returns a complete Python script.
